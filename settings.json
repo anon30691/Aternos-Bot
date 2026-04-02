@@ -8,14 +8,14 @@
   "server": {
     "ip": "PAULFEMBOY-1ZYL.aternos.me",
     "port": 36789,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 1,
     "y": 100,
-    "z": 0
+    "z": 1
   },
   "utils": {
     "auto-auth": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "ILIKE FEMBOY!",
         "I like to play Minecraft!"
       ]
     },
